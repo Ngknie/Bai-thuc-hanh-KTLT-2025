@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="c&#226;u d"/>
+        <attribute name="authors" value="FPTSHOP"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-02-28 10:01:50 AM"/>
+        <attribute name="created" value="RlBUU0hPUDtMQVBUT1AtNEkzOFFHQTk7MjAyNS0wMi0yODswNzozNzoxMyBBTTsyODM0"/>
+        <attribute name="edited" value="RlBUU0hPUDtMQVBUT1AtNEkzOFFHQTk7MjAyNS0wMi0yODsxMDowMTo1MCBBTTsxOzI5Mjg="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="s" type="Real" array="False" size=""/>
+            <output expression="&quot;vui l&#242;ng nh&#7853;p chi&#7873;u d&#224;i &#273;&#225;y&quot;" newline="True"/>
+            <input variable="d"/>
+            <output expression="&quot;vui l&#242;ng nh&#7853;p &#273;&#7897; cao&quot;" newline="True"/>
+            <input variable="h"/>
+            <assign variable="s" expression="d*h/2"/>
+            <output expression="&quot;Di&#7879;n t&#237;ch &#273;&#225;y l&#224;&quot;" newline="True"/>
+            <output expression="s" newline="True"/>
+            <output expression="&quot;Sinh Vi&#234;n Nguy&#7877;n M&#7841;nh Ki&#234;n&quot;" newline="True"/>
+            <output expression="&quot;MSSV:2357520020710017&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
